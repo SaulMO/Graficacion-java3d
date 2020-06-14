@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Graficacion:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70220d92-f528-4e92-9997-8be94fff8a90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b0ex3OLcScKNmCRt28SsG6o2zt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584347511617" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/graficacion" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mondr\OneDrive\Escritorio\Graficacion\src\graficacion" />
+      <recent name="C:\Users\mondr\OneDrive\Escritorio\Graficacion\Liberias" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IcosaedroApp4_1">
+    <configuration name="IcosaedroApp2_1" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="graficacion.SegundoParcial.IcosaedroApp2_1" />
+      <module name="Graficacion" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IcosaedroApp2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graficacion.SegundoParcial.IcosaedroApp2_2" />
+      <module name="Graficacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graficacion.SegundoParcial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IcosaedroApp3_1" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="graficacion.TercerParcial.IcosaedroApp3_1" />
+      <module name="Graficacion" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IcosaedroApp3_2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="graficacion.TercerParcial.IcosaedroApp3_2" />
+      <module name="Graficacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IcosaedroApp4_1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="graficacion.CuartoParcial.IcosaedroApp4_1" />
+      <module name="Graficacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IcosaedroApp4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graficacion.CuartoParcial.IcosaedroApp4_2" />
+      <module name="Graficacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graficacion.CuartoParcial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IcosaedroApp3_1" />
+      <item itemvalue="Application.IcosaedroApp2_1" />
+      <item itemvalue="Application.IcosaedroApp3_2" />
+      <item itemvalue="Application.IcosaedroApp4_1" />
+      <item itemvalue="Application.IcosaedroApp4_2" />
+      <item itemvalue="Application.IcosaedroApp2_2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IcosaedroApp4_2" />
+        <item itemvalue="Application.IcosaedroApp2_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70220d92-f528-4e92-9997-8be94fff8a90" name="Default Changelist" comment="" />
+      <created>1584236106698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584236106698</updated>
+      <workItem from="1587773682789" duration="1156000" />
+      <workItem from="1587775822925" duration="3534000" />
+      <workItem from="1587800719790" duration="11356000" />
+      <workItem from="1587876325653" duration="6278000" />
+      <workItem from="1587883913539" duration="2128000" />
+      <workItem from="1588236572323" duration="1042000" />
+      <workItem from="1588678908971" duration="39000" />
+      <workItem from="1588679053017" duration="143000" />
+      <workItem from="1588902984714" duration="11100000" />
+      <workItem from="1588964577132" duration="964000" />
+      <workItem from="1589352379558" duration="655000" />
+      <workItem from="1589356940920" duration="185000" />
+      <workItem from="1589685762692" duration="1086000" />
+      <workItem from="1589686898185" duration="92000" />
+      <workItem from="1590878610205" duration="7352000" />
+      <workItem from="1591787628564" duration="2565000" />
+      <workItem from="1591856497817" duration="7157000" />
+      <workItem from="1591860787309" duration="10000" />
+      <workItem from="1592173372985" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="56" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591866929179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="56" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1591866929179" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1588904160870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588904160870" />
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591788847550">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1591788847550" />
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587773718260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1587773718260" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1587876967144">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587876967144" />
+    <state width="1323" height="74" key="GridCell.Tab.0.bottom" timestamp="1591860771494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591860771494" />
+    <state width="1323" height="74" key="GridCell.Tab.0.center" timestamp="1591860771494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591860771494" />
+    <state width="1323" height="74" key="GridCell.Tab.0.left" timestamp="1591860771494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591860771494" />
+    <state width="1323" height="74" key="GridCell.Tab.0.right" timestamp="1591860771494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591860771494" />
+    <state x="219" y="0" key="SettingsEditor" timestamp="1587779036113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="219" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587779036113" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1591788737079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1591788737079" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1591856673931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591856673931" />
+    <state x="387" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587778827063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1587778827063" />
+    <state x="65" y="0" key="new project wizard" timestamp="1588679192576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588679192576" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1590887278953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1590887278953" />
+  </component>
+</project>
